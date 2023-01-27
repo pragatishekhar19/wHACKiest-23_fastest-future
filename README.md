@@ -3,6 +3,7 @@ hackathon project
 <!DOCtype HTML>
 <HTML>
     <head>
+    <link rel="stylesheet" href="stly.css">
         <h1> LOGIN PAGE</h1>
         <title>Login Page </title>
         <header> <img src="m.s." height="80",width="100"> <B> M. S. Ramaiah Institutte of Technology</B> </header>
