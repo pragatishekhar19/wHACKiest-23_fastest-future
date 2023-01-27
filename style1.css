@@ -1,0 +1,28 @@
+body {
+    background-color: lightblue;
+  }
+h1{
+    text-align: center;
+    font-size: 2cm;
+}
+header{
+    text-align: center;
+    font-weight: 500;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5cm;
+    color: crimson;
+
+}
+div.lable{
+
+    text-align: center;
+    font-size: 1cm;
+}
+div.date {
+    text-align: center;
+    font-size: 1cm;
+}
+.button{
+    justify-content: center;
+    
+}
