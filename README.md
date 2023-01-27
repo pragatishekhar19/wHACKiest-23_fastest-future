@@ -105,3 +105,22 @@ hackathon project
   
     
 </HTML>
+
+
+
+//Page 2 For Event Calender
+<!DOCTYPE html>
+<HTML>
+    <head>
+        <title> Event Calender</title>
+    </head>
+    <body>
+        <div>
+            <h1>Event Calender</h1>
+
+        </div>
+        <button type="Insert Event">Insert Event</button>
+        <button type="Check Event">Check Event</button>
+    </body>
+</HTML>
+
